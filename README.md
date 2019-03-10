@@ -9,7 +9,7 @@
 
 Branch    | style | Coverage
 ----------|-------|----------
-master    | ![CircleCI](https://github.com/trunkszi/fastlog/blob/master/style.png) | ![CircleCI](https://github.com/trunkszi/fastlog/blob/master/cover.png)
+master    | ![CircleCI](https://github.com/fastlog/go-fastlog/blob/master/style.png) | ![CircleCI](https://github.com/fastlog/go-fastlog/blob/master/cover.png)
 
 
 - example ConsoleLogger
